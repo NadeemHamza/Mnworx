@@ -1,0 +1,50 @@
+.body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    /* overflow-x: hidden; */
+}
+
+.headBg{
+    background-color: #4CBD97;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.headLogo{
+    width: 110px;
+    margin-left: 5%;
+}
+
+.navUl li{
+    padding-right: 50px;
+}
+
+.serviceCard i{
+    color: #4CBD97;
+}
+
+.serviceCard h5{
+    padding: 5px 0px;
+}
+
+.btnMsg{
+    color: white;
+    background-color: #4CBD97;
+    width: 100%;
+}
+
+.btnMsg:hover{
+    color: white;
+    background-color: #31a57e;
+}
+
+.footer{
+    color: white;
+    background-color: #063B4C;
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+}
